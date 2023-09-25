@@ -1,0 +1,27 @@
+{
+  "name": "helloworld-docker",
+  "version": "1.0.0",
+  "description": "An introduction to Docker for beginners",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seungy0/helloworld-docker.git"
+  },
+  "keywords": [
+    "docker"
+  ],
+  "author": "seungy0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seungy0/helloworld-docker/issues"
+  },
+  "homepage": "https://github.com/seungy0/helloworld-docker#readme"
+}
